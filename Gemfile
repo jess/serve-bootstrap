@@ -8,7 +8,6 @@ gem 'serve', '1.5.1'
 # Use Compass and Sass
 gem 'compass'
 gem 'haml'
-gem 'i18n'
 gem 'bootstrap-sass'
 
 # Markdown and Textile

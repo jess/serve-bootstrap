@@ -35,5 +35,4 @@ DEPENDENCIES
   bootstrap-sass
   compass
   haml
-  i18n
   serve (= 1.5.1)
